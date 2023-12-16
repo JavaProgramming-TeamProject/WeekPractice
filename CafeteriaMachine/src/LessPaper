@@ -1,0 +1,9 @@
+import javax.swing.*;
+
+public class LessPaper {
+
+    public void excute(){
+        JOptionPane.showMessageDialog(null, "용지 부족","용지 부족", JOptionPane.ERROR_MESSAGE);
+
+    }
+}
